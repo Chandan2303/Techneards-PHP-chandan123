@@ -13,5 +13,5 @@ echo "<br>";
 print $a;
 echo $a;
 print "technerds"."<br>".$a;
-echo("technerds"."<br>".$a);
+echo("technerds"."<br>");
 ?>
